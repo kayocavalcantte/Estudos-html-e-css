@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right, #5AD3F0,#2A81F7);
+   
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #236acecf ;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+   
+}
+h1{
+    
+   color: #5821c7e7;
+   text-align: center;
+   text-shadow: 1px 1px 2px #4d1daec8;
+
+
+    
+}
+dov{
+    display: flex;
+    justify-content: center;
+}
+
